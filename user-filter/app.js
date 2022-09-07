@@ -1,7 +1,10 @@
 const result = document.getElementById('result')
 const filter = document.getElementById('filter')
 
-const baseURL = 'https://randomuser.me/api/?results=10'
+filter.addEventListener('input', (e) => {
+    filterUsers(e.target.value);
+})
+const baseURL = 'https://randomuser.me/api/?results=50'
 let userList = []
 
 async function getUsers() {
@@ -23,3 +26,25 @@ async function getUsers() {
   })
 }
 getUsers()
+
+function filterUsers(searchParams) {
+    userList.forEach(user => {
+        if (!user.innerText.toLowerCase().includes(searchParams.toLowerCase())) {
+            user.classList.add('hide')
+        } else {
+            user.classList.remove('hide')
+        }
+    })
+}
+
+//alternative way
+function filterByInput(searchParams) {
+    const resultList = document.querySelectorAll('.user-list li');
+    resultList.forEach(u => {
+        if (!u.textContent.toLowerCase().includes(searchParams.toLowerCase())) {
+            u.classList.add('hide')
+        } else {
+            u.classList.remove('hide')
+        }
+    })
+}
