@@ -6,10 +6,86 @@
 body {
     background-color: antiquewhite;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
     overflow: hidden;
     margin: 0;
+}
+
+.container {
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    width: 300px;
+}
+
+.header {
+    background-color: rgb(237, 168, 100);
+    color: white;
+    padding: 30px 20px;
+}
+
+.title {
+    margin: 0;
+}
+
+.subtitle {
+    display: inline-block;
+    margin: 5px 0 20px;
+
+}
+
+.header input {
+    background-color: rgba(255, 253, 250, 0.5);
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+}
+
+.header input:focus {
+    outline: none;
+}
+
+.user-list {
+    background-color: white;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.user-list li {
+    display: flex;
+    padding: 20px;
+}
+
+.user-list img {
+    border-radius: 50%;
+    object-fit: cover;
+    height: 50px;
+    height: 50px;
+}
+
+.user-list .user-info {
+    margin-left: 10px;
+}
+
+.user-list .user-info h4 {
+    margin: 0 0 10px;
+}
+
+.user-list .user-info p {
+    font-size: 12px;
+}
+
+.user-list li:not(last-of-type) {
+    border-bottom: 1px solid rgb(238, 237, 237);
+}
+
+.user-list li.hide {
+    display: none;
 }
