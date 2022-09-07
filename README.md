@@ -7,3 +7,6 @@ List of components in this repository:
 
 [**Loading page with blur effect**](https://github.com/MitkoDG/components-collection/tree/main/fade-to-clear-loading-screen)
 ![Loading page with blur effect picture](https://github.com/MitkoDG/components-collection/blob/main/fade-to-clear-loading-screen/screenshot.jpg)
+
+[**Filter random user list**](https://github.com/MitkoDG/components-collection)
+![Filter random user list](https://github.com/MitkoDG/components-collection/blob/main/user-filter/screenshot.jpg)
