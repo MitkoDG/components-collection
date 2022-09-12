@@ -13,3 +13,6 @@ List of components in this repository:
 
 [**Order summary**](https://github.com/MitkoDG/order-summary-landing-page)
 ![Order summary](https://github.com/MitkoDG/components-collection/blob/main/order-summary/screenshot.jpg)
+
+[**Scroll Animation**](https://github.com/MitkoDG/components-collection/tree/main/scroll-animation)
+![Scroll Animation](https://github.com/MitkoDG/components-collection/blob/main/scroll-animation/screenshot.jpg)
