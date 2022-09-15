@@ -23,6 +23,8 @@ body {
     transform: rotate(-20deg);
 }
 
+
+
 .circle-container {
     position: fixed;
     top: -100px;
@@ -35,6 +37,10 @@ body {
     border-radius: 50%;
     position: relative;
     transition: transform 0.5s linear;
+}
+
+.container.show-nav .circle {
+    transform: rotate(-70deg);
 }
 
 .circle button {
@@ -67,6 +73,7 @@ body {
     transform: translateX(0);
     transition-delay: 0.3s;
 }
+
 
 nav {
     position: fixed;
