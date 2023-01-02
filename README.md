@@ -27,3 +27,7 @@ List of components in this repository:
 [**Hidden Menu**](https://github.com/MitkoDG/components-collection/tree/main/hidden-navigation)
 [![Hidden Menu](https://github.com/MitkoDG/components-collection/blob/main/hidden-navigation/screenshot.jpg "Hidden Menu")](https://components.dimitargegov.com/hidden-navigation/index.html)
 **[⬆ back to top](#components-collection)**
+
+[**Calculator**](https://github.com/MitkoDG/components-collection/tree/main/calculator)
+[![Calculator](https://github.com/MitkoDG/components-collection/blob/main/calculator/screenshot.jpg "calculator")](https://components.dimitargegov.com/calculator/index.html)
+**[⬆ back to top](#components-collection)**
