@@ -31,3 +31,7 @@ List of components in this repository:
 [**Calculator**](https://github.com/MitkoDG/components-collection/tree/main/calculator)
 [![Calculator](https://github.com/MitkoDG/components-collection/blob/main/calculator/screenshot.jpg "calculator")](https://components.dimitargegov.com/calculator/index.html)
 **[⬆ back to top](#components-collection)**
+
+[**Clock**](https://github.com/MitkoDG/components-collection/tree/main/clock)
+[![Clock](https://github.com/MitkoDG/components-collection/blob/main/clock/screenshot.jpg "Clock")](https://components.dimitargegov.com/clock/index.html)
+**[⬆ back to top](#components-collection)**
