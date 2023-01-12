@@ -1,5 +1,5 @@
 # Components collection
-All this components made me confiden working with HTML and CSS and DOM manipulation using JavaScript.
+All this components made me confiden working with HTML, CSS and DOM manipulation using JavaScript.
 
 Check the [**Demo website**](https://components.dimitargegov.com/)
 
