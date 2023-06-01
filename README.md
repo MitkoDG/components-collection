@@ -13,7 +13,7 @@ List of components in this repository:
 **[⬆ back to top](#components-collection)**
 
 [**Filter random user list**](https://github.com/MitkoDG/components-collection)
-[![Filter random user list](https://github.com/MitkoDG/components-collection/blob/main/user-filter/screenshot.jpg "Filter random user list")](https://components.dimitargegov.com/user-filter/index.html)
+[![Filter random user list](https://github.com/MitkoDG/components-collection/blob/main/user-filter/screenshot.jpg "Filter random user list")](https://components.dimitargegov.site/user-filter/index.html)
 **[⬆ back to top](#components-collection)**
 
 [**Order summary**](https://github.com/MitkoDG/order-summary-landing-page)
