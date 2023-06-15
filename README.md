@@ -33,5 +33,5 @@ List of components in this repository:
 **[⬆ back to top](#components-collection)**
 
 [**Clock**](https://github.com/MitkoDG/components-collection/tree/main/clock)
-[![Clock](https://github.com/MitkoDG/components-collection/blob/main/clock/screenshot.jpg "Clock")](https://components.dimitargegov.com/clock/index.html)
+[![Clock](https://github.com/MitkoDG/components-collection/blob/main/clock/screenshot.jpg "Clock")](https://components.dimitargegov.site/clock/index.html)
 **[⬆ back to top](#components-collection)**
