@@ -6,7 +6,7 @@ Check the [**Demo website**](https://components.dimitargegov.website/)
 List of components in this repository:
 
 [**Login screen page**](https://github.com/MitkoDG/components-collection/tree/main/login-screen-errors)
-[![Login screen page](https://github.com/MitkoDG/components-collection/blob/main/login-screen-errors/screenshot.jpg "Login screen page")](https://components.dimitargegov.site/login-screen-errors/index.html)
+[![Login screen page](https://github.com/MitkoDG/components-collection/blob/main/login-screen-errors/screenshot.jpg "Login screen page")](https://components.dimitargegov.website/login-screen-errors/index.html)
 
 [**Loading page with blur effect**](https://github.com/MitkoDG/components-collection/tree/main/fade-to-clear-loading-screen)
 [![Loading page with blur effect picture](https://github.com/MitkoDG/components-collection/blob/main/fade-to-clear-loading-screen/screenshot.jpg "Loading page with blur effect")](https://components.dimitargegov.website/fade-to-clear-loading-screen/index.html)
