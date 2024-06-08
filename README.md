@@ -17,7 +17,7 @@ List of components in this repository:
 **[⬆ back to top](#components-collection)**
 
 [**Order summary**](https://github.com/MitkoDG/order-summary-landing-page)
-[![Order summary](https://github.com/MitkoDG/components-collection/blob/main/order-summary/screenshot.jpg "Order summary")](https://components.dimitargegov.site/order-summary/index.html)
+[![Order summary](https://github.com/MitkoDG/components-collection/blob/main/order-summary/screenshot.jpg "Order summary")](https://components.dimitargegov.website/order-summary/index.html)
 **[⬆ back to top](#components-collection)**
 
 [**Scroll Animation**](https://github.com/MitkoDG/components-collection/tree/main/scroll-animation)
