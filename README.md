@@ -21,7 +21,7 @@ List of components in this repository:
 **[⬆ back to top](#components-collection)**
 
 [**Scroll Animation**](https://github.com/MitkoDG/components-collection/tree/main/scroll-animation)
-[![Scroll Animation](https://github.com/MitkoDG/components-collection/blob/main/scroll-animation/screenshot.jpg "Scroll Animation")](https://components.dimitargegov.site/scroll-animation/index.html)
+[![Scroll Animation](https://github.com/MitkoDG/components-collection/blob/main/scroll-animation/screenshot.jpg "Scroll Animation")](https://components.dimitargegov.website/scroll-animation/index.html)
 **[⬆ back to top](#components-collection)**
 
 [**Hidden Menu**](https://github.com/MitkoDG/components-collection/tree/main/hidden-navigation)
