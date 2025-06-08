@@ -1,7 +1,7 @@
 # Components collection
-Doing all these components made me confident working with HTML, CSS, DOM manipulation as well as JavaScript.
+Completing all these components made me confident in working with HTML, CSS, DOM manipulation, as well as JavaScript.
 
-Check the [**Demo website**](https://components.dimitargegov.website/)
+Check the [**Demo website**](https://components.dimitargegov.site/)
 
 List of components in this repository:
 
